@@ -2,7 +2,7 @@
 
 This is a game that I created with Godot game engine. It is called "Dodge the Creeps". The goal of the game is to not get hit by the enemies.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=1IUGgIFzxxk)
 
 # Development Environment
 
